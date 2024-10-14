@@ -1,4 +1,4 @@
-szam = int(input("Kérlek adj meg egy számot: "))
+szam = int(input("Adjon meg egy számot: "))
 
 if szam % 2 == 0:
     print("A megadott szám páros.")
