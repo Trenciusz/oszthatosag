@@ -1,4 +1,4 @@
-szam = int(input("Kérlek adj meg egy számot: "))
+szam = int(input("Adjon meg egy számot: "))
 
 if szam % 3 == 0 and szam % 4 == 0:
     print("A szám osztható 3-mal és 4-gyel is.")
